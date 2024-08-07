@@ -1,0 +1,6 @@
+C:\Users\frast\LearningBlogAPI\LearningBlogAPI\obj\Debug\net6.0\LearningBlogAPI.csproj.AssemblyReference.cache
+C:\Users\frast\LearningBlogAPI\LearningBlogAPI\obj\Debug\net6.0\LearningBlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frast\LearningBlogAPI\LearningBlogAPI\obj\Debug\net6.0\LearningBlogAPI.AssemblyInfoInputs.cache
+C:\Users\frast\LearningBlogAPI\LearningBlogAPI\obj\Debug\net6.0\LearningBlogAPI.AssemblyInfo.cs
+C:\Users\frast\LearningBlogAPI\LearningBlogAPI\obj\Debug\net6.0\LearningBlogAPI.csproj.CoreCompileInputs.cache
+C:\Users\frast\LearningBlogAPI\LearningBlogAPI\obj\Debug\net6.0\LearningBlogAPI.MvcApplicationPartsAssemblyInfo.cache
