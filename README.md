@@ -26,7 +26,7 @@ LearningBlogAPI is a RESTful API designed to manage a learning blog where users 
 
 ## Requirements
 
-- .NET Core 6.0 SDK
+- .NET Core 8.0 SDK
 - SQLite
 - Docker (for containerization)
 - Git
@@ -35,4 +35,5 @@ LearningBlogAPI is a RESTful API designed to manage a learning blog where users 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/f-rastkhadiv/LearningBlogAPI.git
+   cd LearningBlogAPI
