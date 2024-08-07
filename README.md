@@ -36,4 +36,3 @@ LearningBlogAPI is a RESTful API designed to manage a learning blog where users 
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/f-rastkhadiv/LearningBlogAPI.git
-   cd LearningBlogAPI
